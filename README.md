@@ -18,7 +18,7 @@ Insights from Dashboard: Extract actionable insights from your Power BI dashboar
 
 Getting Started
 To get started with our Power BI Projects, follow these simple steps:
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/yourusername/power-bi-projects.git.
+Clone the Repository: Clone this repository to your local machine using git clone https://github.com/AKoul55/PowerBI_dashboard/tree/main.
 Install Power BI Desktop: If you haven't already, download and install Power BI Desktop from the official Microsoft website.
 Open Project Files: Navigate to the project directory and open the .pbix files using Power BI Desktop to explore the dashboards and reports.
 Explore and Analyze: Interact with the visualizations, apply filters, and drill down into the data to gain insights and explore different aspects of the datasets.
