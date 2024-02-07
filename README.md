@@ -22,3 +22,9 @@ Clone the Repository: Clone this repository to your local machine using git clon
 Install Power BI Desktop: If you haven't already, download and install Power BI Desktop from the official Microsoft website.
 Open Project Files: Navigate to the project directory and open the .pbix files using Power BI Desktop to explore the dashboards and reports.
 Explore and Analyze: Interact with the visualizations, apply filters, and drill down into the data to gain insights and explore different aspects of the datasets.
+
+
+ScreenShot of the Dashboards
+https://github.com/AKoul55/PowerBI_dashboard/blob/main/Screenshot%202024-02-07%20204755.png
+https://github.com/AKoul55/PowerBI_dashboard/blob/main/Screenshot%202024-02-07%20204925.png
+https://github.com/AKoul55/PowerBI_dashboard/blob/main/Screenshot%202024-02-07%20205317.png
